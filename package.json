@@ -1,0 +1,16 @@
+{
+  "name": "merge-pdf",
+  "version": "1.0.0",
+  "private": false,
+  "description": "Merge online & local pdf's",
+  "main": "index.js",
+  "scripts": {
+    "merge": "node index.js"
+  },
+  "keywords": ["pdf", "merge", "download"],
+  "author": "fyupanquia",
+  "license": "ISC",
+  "dependencies": {
+    "easy-pdf-merge": "^0.2.6"
+  }
+}
